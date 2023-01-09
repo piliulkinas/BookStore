@@ -2,7 +2,7 @@
 
 namespace BookStore.Services
 {
-    public class BookService //: IBookService
+    public class BookService
     {
         private readonly List<Book> _books;
         private readonly List<Author> _authors;
